@@ -1,0 +1,8 @@
+.notes-input input{
+    height: 20px;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: none;
+}
